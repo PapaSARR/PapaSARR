@@ -8,7 +8,7 @@
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub&hide=prs,contribs,issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Contact
 
