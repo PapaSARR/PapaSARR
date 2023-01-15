@@ -2,13 +2,13 @@
 ## ✨ Software Engineer ✨
 
 ### Stats
-![PapaSARR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&theme=dark)  
+![PapaSARR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&theme=dark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
 
-### GitHub Profile Trophy
+### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub&hide=prs,contribs,issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Contact
 
