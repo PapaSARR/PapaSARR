@@ -6,9 +6,11 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
 
+<!--
 ### GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### Contact
 
