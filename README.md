@@ -4,11 +4,11 @@
 ### Stats
 
 <span>
-	<img src="https://github-readme-stats.vercel.app/api?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark" alt="PapaSARR Github stats">
+	![PapaSARR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&theme=dark)
 </span>
 
 <span>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact" alt="Top Langs" height="195px">
+	![TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
 </span>
 
 ### GitHub Profile Trophy
