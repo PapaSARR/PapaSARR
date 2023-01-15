@@ -2,7 +2,7 @@
 ## ✨ Software Engineer ✨
 
 ### Stats
-![PapaSARR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&theme=dark)  
+![PapaSARR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
 
