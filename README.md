@@ -1,12 +1,14 @@
 ### Hi there 👋, I'm Abdoulaye
 ## ✨ Software Engineer ✨
 
-### Stats
+### Profile
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PapaSARR&theme=github_dark
+
+<!--
 ![PapaSARR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PapaSARR&hide=prs,contribs,issues&count_private=true&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PapaSARR&show_icons=1&count_private=true&hide_border=1&theme=dark&layout=compact)
 
-<!--
 ### GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PapaSARR&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
