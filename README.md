@@ -17,5 +17,5 @@
 ### Contact
 
 [![contact@abdoulaye-sarr.com](https://img.shields.io/badge/contact@abdoulaye--sarr.com-%231DA1F2.svg?&style=flat-square&logo=mail.ru&logoColor=white)](mailto:contact@abdoulaye-sarr.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulaye-sarr-187916133/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papasarr/)
 [![abdoulaye-sarr.com](https://img.shields.io/badge/abdoulaye--sarr.com-%23337AB7.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://abdoulaye-sarr.com) 
